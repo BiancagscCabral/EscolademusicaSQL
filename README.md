@@ -81,10 +81,10 @@ Este projeto consiste na modelagem e desenvolvimento de um banco de dados relaci
 
 💻 Tecnologias Utilizadas
 
-<ul> MySQL</ul>
+- MySQL
 
-<ul>MySQL Workbench (para modelagem)</ul>
+-MySQL Workbench (para modelagem)
 
-<ul>SQL (DDL, DML, DQL e DCL)</ul>
+-SQL (DDL, DML, DQL e DCL)
 
-<ul>Conceitos de Banco de Dados Relacional</ul>
+-Conceitos de Banco de Dados Relacional
