@@ -83,8 +83,8 @@ Este projeto consiste na modelagem e desenvolvimento de um banco de dados relaci
 
 - MySQL
 
--MySQL Workbench (para modelagem)
+- MySQL Workbench (para modelagem)
 
--SQL (DDL, DML, DQL e DCL)
+- SQL (DDL, DML, DQL e DCL)
 
--Conceitos de Banco de Dados Relacional
+- Conceitos de Banco de Dados Relacional
